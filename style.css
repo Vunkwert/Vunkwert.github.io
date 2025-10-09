@@ -16,18 +16,7 @@ body {
 }
 
 header {
-    display: flex;
-    align-items: center;
     margin-bottom: 30px;
-}
-
-.photo img {
-    width: 100px;
-    height: 100px;
-    border-radius: 8px;
-    border: 3px solid #B22222;
-    margin-right: 25px;
-    object-fit: cover;
 }
 
 .header-info h1 {
